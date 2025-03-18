@@ -1,0 +1,25 @@
+10SecondWindow_MLP:
+
+Literatura:
+Accuracy  : 0.9220
+Loss  : 0.2640
+Precision : 0.9321
+Recall    : 0.9084
+F1 Score  : 0.9201
+
+Com entropia e complexidade, window_size de 10 e dx = 3:
+Accuracy  : 0.9277
+Loss  : 0.3153
+Precision : 0.9288
+Recall    : 0.9231
+F1 Score  : 0.9259
+
+Com entropia e complexidade, window_size de 10 e dx = 4:
+Accuracy  : 0.9215
+Loss  : 0.3185
+Precision : 0.9227
+Recall    : 0.9185
+F1 Score  : 0.9206
+
+Com entropia e complexidade, window_size de 10 e dx = 5:
+
