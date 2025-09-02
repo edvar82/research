@@ -1,0 +1,12 @@
+sensor,mean_delta_lr_acc,mean_delta_silhouette,num_dx
+android.sensor.gyroscope_uncalibrated,0.0140,0.0737,3
+android.sensor.rotation_vector,0.0093,-0.0557,3
+android.sensor.game_rotation_vector,0.0071,-0.1146,3
+android.sensor.accelerometer,0.0024,-0.0408,3
+android.sensor.light,0.0000,-0.0000,3
+android.sensor.magnetic_field_uncalibrated,0.0000,-0.0049,3
+android.sensor.linear_acceleration,-0.0001,-0.0574,3
+android.sensor.gravity,-0.0023,-0.0591,3
+android.sensor.orientation,-0.0071,0.0391,3
+android.sensor.magnetic_field,-0.0072,0.0446,3
+android.sensor.gyroscope,-0.0094,-0.0520,3

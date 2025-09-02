@@ -1,0 +1,4 @@
+sensor,dx,silhouette_baseline,silhouette_with_it,lr_acc_baseline,lr_acc_with_it
+android.sensor.gyroscope_uncalibrated,3,0.0,0.0,0.29724137931034483,0.29724137931034483
+android.sensor.gyroscope_uncalibrated,4,0.0,0.0,0.29724137931034483,0.29724137931034483
+android.sensor.gyroscope_uncalibrated,5,0.0,0.0,0.29724137931034483,0.29724137931034483
